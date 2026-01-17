@@ -1,6 +1,6 @@
-#Remove My Friend Now
+# Remove My Friend Now
 
-Remove my friend now is a QOL Mod Requested by an AAC.
+Remove my friend now is a QOL Gorilla Tag mod Requested by an AAC.
 
 This mod fixes the issue regarding removing friends taking 3 and a half business days.
 
